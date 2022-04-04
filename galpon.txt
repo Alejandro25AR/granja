@@ -1,3 +1,4 @@
 Ingresaron 2 gallinas
 Ingreso un pollo
-Ingreso un pollo
+
+Ingresaron 2 gallinas
